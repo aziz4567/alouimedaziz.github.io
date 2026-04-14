@@ -29,8 +29,8 @@ const Projects = () => {
             description: "A clone of the Nike e-commerce website built with React and Tailwind CSS, featuring responsive design and interactive UI elements.",
             tags: ["React", "Tailwind CSS", "JavaScript"],
             icon: <FiGlobe />,
-            github: "#",
-            link: "#"
+            github: "https://github.com/alouimedaziz/Nike.git",
+            link: "https://dev-aziz-nike.netlify.app/"
         },
         {
             title: "Microsoft Tech Club ISIMM",
